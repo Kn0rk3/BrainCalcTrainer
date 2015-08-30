@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>WIN-8BU1A9142NE</Machine>
+    <WindowsUser>GeorgDeveloper</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>625824b1-f30c-4fe6-bee7-2aa06c132e23</PackageIdentityName>
+    <IntermediateOutputPath>c:\users\georgdeveloper\documents\visual studio 2013\Projects\BrainCalcTrainer\BrainCalcTrainer\BrainCalcTrainer.Windows\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>8F2DE9EFB17423B7A5238FB91BD2567F8B274086C69FA1AC49C829ED8FF0FB0C</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>625824b1-f30c-4fe6-bee7-2aa06c132e23_1.0.0.0_neutral__8nbbbwzx5wr7t</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>625824b1-f30c-4fe6-bee7-2aa06c132e23_8nbbbwzx5wr7t!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>625824b1-f30c-4fe6-bee7-2aa06c132e23</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=GeorgDeveloper</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="c:\users\georgdeveloper\documents\visual studio 2013\Projects\BrainCalcTrainer\BrainCalcTrainer\BrainCalcTrainer.Windows\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-08-30T20:05:08.872</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="c:\users\georgdeveloper\documents\visual studio 2013\Projects\BrainCalcTrainer\BrainCalcTrainer\BrainCalcTrainer.Windows\bin\Debug\BrainCalcTrainer.Windows.exe">
+      <PackagePath>BrainCalcTrainer.Windows.exe</PackagePath>
+      <Modified>2015-08-30T20:05:08.289</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\georgdeveloper\documents\visual studio 2013\Projects\BrainCalcTrainer\BrainCalcTrainer\BrainCalcTrainer.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T08:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\georgdeveloper\documents\visual studio 2013\Projects\BrainCalcTrainer\BrainCalcTrainer\BrainCalcTrainer.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T08:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\georgdeveloper\documents\visual studio 2013\Projects\BrainCalcTrainer\BrainCalcTrainer\BrainCalcTrainer.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T08:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\georgdeveloper\documents\visual studio 2013\Projects\BrainCalcTrainer\BrainCalcTrainer\BrainCalcTrainer.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T08:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\georgdeveloper\documents\visual studio 2013\Projects\BrainCalcTrainer\BrainCalcTrainer\BrainCalcTrainer.Windows\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2015-08-30T20:05:08.040</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\georgdeveloper\documents\visual studio 2013\Projects\BrainCalcTrainer\BrainCalcTrainer\BrainCalcTrainer.Windows\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2015-08-30T20:05:08.044</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\georgdeveloper\documents\visual studio 2013\Projects\BrainCalcTrainer\BrainCalcTrainer\BrainCalcTrainer.Windows\bin\Debug\BrainCalcTrainer.Windows.xr.xml">
+      <PackagePath>BrainCalcTrainer.Windows.xr.xml</PackagePath>
+      <Modified>2015-08-30T20:05:07.903</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\georgdeveloper\documents\visual studio 2013\Projects\BrainCalcTrainer\BrainCalcTrainer\BrainCalcTrainer.Windows\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-08-30T20:05:08.604</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
