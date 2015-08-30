@@ -37,6 +37,7 @@ namespace BrainCalcTrainer
         {
             this.InitializeComponent();
             this.Suspending += this.OnSuspending;
+
         }
 
         /// <summary>
